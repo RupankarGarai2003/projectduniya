@@ -7,7 +7,7 @@ const teamMembers = [
   { name: "Sayan Maity", role: "Diverse Skills in AI and Web Development | Intern at Edunet Foundation | Intern at Webstack Academy - WSA| Advanced Data Analytics & ML Intern", imgSrc: "/profile/Sayan.jpg", linkedin: "#", github: "#" },
   { name: "Tridib Kamal", role: "DATA ANALYTICS || SQL || ETL || POWER BI | Full-Stack Developer", imgSrc: "/profile/tridib.jpg", linkedin: "#", github: "#" },
   { name: "Eman Roy", role: "Web Developer | Photography & Creative Editing | Time & Deadline Management | Communication & Team Collaboration", imgSrc: "/profile/Eman.png", linkedin: "#" },
-  { name: "Arnab Halder", role: "Web  Developer | Crafting Scalable Web Solutions with React, Java & Modern Web Tech", imgSrc: "/profile/Arnab.png", linkedin: "#" },
+  { name: "Arnab Halder", role: "Web  Developer | Crafting Scalable Web Solutions with React, Java & Modern Web Tech", imgSrc: "/profile/arnab.png", linkedin: "#" },
   
 ];
 
