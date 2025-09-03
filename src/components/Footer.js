@@ -48,11 +48,11 @@ export default function Footer() {
           <p><FaPhoneAlt /> +91 8391808784</p>
           <p><MdEmail /> rupankargarai55@gmail.com</p>
           <div className="social-icons">
-            <a href="https://youtube.com/" target="_blank" rel="noopener noreferrer"><FaYoutube /></a>
-            <a href="https://wa.me/918391808784" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></a>
-            <a href="https://t.me/yourUsername" target="_blank" rel="noopener noreferrer"><FaTelegramPlane /></a>
-            <a href="https://instagram.com/yourProfile" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
-            <a href="https://facebook.com/yourPage" target="_blank" rel="noopener noreferrer"><FaFacebookF /></a>
+            
+            <a href="https://whatsapp.com/channel/0029Vb6IJCz1HspyfkinMl2g" target="_blank" rel="noopener noreferrer"><FaWhatsapp /></a>
+            <a href="https://t.me/projectduniya" target="_blank" rel="noopener noreferrer"><FaTelegramPlane /></a>
+            <a href="https://www.instagram.com/projectduniya.help?igsh=aGl6aDdtbzFmaHJs" target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
+            <a href="https://www.facebook.com/profile.php?id=61580355323239" target="_blank" rel="noopener noreferrer"><FaFacebookF /></a>
           </div>
         </div>
       </div>
