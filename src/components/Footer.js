@@ -1,7 +1,6 @@
 // Footer.js
 import "../styles/Footer.css";
 import {
-  FaYoutube,
   FaWhatsapp,
   FaTelegramPlane,
   FaInstagram,
@@ -9,7 +8,7 @@ import {
   FaPhoneAlt,
 } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-import { Link } from "react-router-dom";
+
 
 export default function Footer() {
   return (
